@@ -41,12 +41,12 @@ After training, the model generates captions that describe the content of images
 
 ### Example 1
 
-![Image 1](results/image2.jpg)
+![Image 1](results/image2.png)
 
 *Generated Caption*: "a person be abseil down a cliff over water."
 
 ### Example 2
 
-![Image 2](results/image1.jpg)
+![Image 2](results/image1.png)
 
 *Generated Caption*: "two dog play in the snow."
