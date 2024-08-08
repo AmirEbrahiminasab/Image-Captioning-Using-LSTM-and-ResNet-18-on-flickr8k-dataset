@@ -36,4 +36,17 @@ Initially, the ResNet-18 model is used with pre-trained weights from ImageNet. T
 - Matplotlib
 
 ## Results
-3 examples has been shown in the file.
+
+After training, the model generates captions that describe the content of images. Below are some examples of generated captions:
+
+### Example 1
+
+![Image 1](results/image2.jpg)
+
+*Generated Caption*: "a person be abseil down a cliff over water."
+
+### Example 2
+
+![Image 2](results/image1.jpg)
+
+*Generated Caption*: "two dog play in the snow."
